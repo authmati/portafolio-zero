@@ -8,7 +8,6 @@ Bienvenidos a mi portafolio personal, desarrollado con **Astro** y **Tailwind CS
 
 - **Astro**: Un framework moderno y rápido para construir sitios web optimizados.
 - **Tailwind CSS**: Un potente framework de CSS que facilita un diseño hermoso y responsivo.
-- **Integraciones**: Optimizado para SEO, análisis, y otras herramientas esenciales para un sitio web profesional.
 
 ## Características del Proyecto:
 
